@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+<!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +29,10 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+   --->
+### Day 0: February 12, 2024 
+**Today's Progress**: Worked on 2 medium and 1 hard questions in leetcode.
+1.Find element in infinite sorted array
+2.Find in mountain array
+3.Find peak index of mountain array 
+
