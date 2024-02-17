@@ -36,3 +36,16 @@
 2.Find in mountain array
 3.Find peak index of mountain array 
 
+### Day 1: February 13, 2024 
+**Todays Progress**: Solved 2 medium questions related to binary search in leetcode.
+
+### Day 2: February 14, 2024 
+**Today's Progress**: Navigated through binary search with 1 easy, 1 hard problem conquered. Also tackled searching in 2D arrays with binary search
+
+### Day 3: February 15, 2024 
+**Today's Progress**: Navigated through binary search with 1 easy, 1 hard problem conquered. Also tackled searching in 2D arrays with binary search.
+
+### Day 4: February 16, 2024 
+**Today's Progress**: Solved one easy and one medium problem in leetcode using binary search.
+
+
